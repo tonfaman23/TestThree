@@ -1,0 +1,1 @@
+console.log("The Strongest Champion of the Franchise")
